@@ -1,0 +1,46 @@
+
+==============================
+Constructivism as Intervention
+==============================
+* Constructivism was developed by Piaget
+* Constructivism is knowledge is not transmitted, but constructed
+* In constructivism, individual must reconstruct knowledge in a material environment
+* Constructionism was developed by Papert 
+* Constructionism is active making of something outside of one’s head; tangible, shareable
+* Constructionism is learning by making
+* Papert thought constructivism has a disassociation of knowledge without context
+* Papert thought this disassociation would cause weaker understanding
+
+========================================================================
+Piaget’s Constructivism, Papert’s Constrctionism: What’s the difference?
+========================================================================
+* For both Piaget & Papert, knowledge is constructed through interaction with the world
+* Piaget - framework for understanding children’s way of thinking at development levels
+* Piaget - children have worldview that differ from adults
+* Piaget - children’s worldview are coherent and robust
+* Piaget - “logic” of worldview suits their current needs and possibilities
+* Piaget - for a child to change worldview they need more than exposure to better view
+* Piaget - child’s actions or experiences will cause them to change worldview
+* Piaget - teaching is indirect: have to interpret what they hear
+* Piaget - Transmission model won’t work: knowledge acquired through interaction
+* Piaget - Acknowledge resistance to learning: kids have good reasons not to change view
+* Piaget overlooks context, uses, media, and importance of individual preferences 
+* Papert - builds on Piaget, but wants engaged learner constructing public entity
+* Papert - helps us to understand how ideas get formed and transformed through media
+* Papert - moves from universals to individual learns’ conversation with favorite media
+* Papert - projecting our inner feelings and ideas is key to learning
+* Papert - expressing ideas makes them tangible and shareable, this sharpens these ideas
+* Papert - self-directed learning is iterative process, invent tools for learning
+* Constructionism are more situated and pragmatic than Constructivism
+* Situated learning means knowledge shouldn’t be detached from situations in which it is constructed and actualized
+* Papert - constructionism is just as important as general, impersonal, abstract thinking
+* Piaget - kids become progressively detached from world of concrete objects, gradually becoming able to mentally manipulate symbolic objects within a realm of hypothetical worlds
+* Papert - becoming one with the phenomenon under study is a key to learning
+* Papert - focus on how knowledge is formed/transformed within specific contexts
+* Papert - advocates diving into unknown situations at the cost of experiencing a moment sense of loss is a crucial part of learning
+
+=========================
+Situating Constructionism
+=========================
+* everything is to be understood by being constructed
+* constructionism touches on the nature of knowledge and the nature of knowing

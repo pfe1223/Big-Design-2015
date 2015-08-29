@@ -1,0 +1,31 @@
+=====================
+Learnable Programming
+=====================
+* Attributes of the environment:
+	# Read the vocabulary - what do these words mean?
+	# Follow the flow - what happens now?
+	# See the state - what is the computer thinking?
+	# Create by reacting - start somewhere, then sculpt
+	# Create by abstracting - start concrete, then generalize
+* Attributes of the language:
+	# Identity and metaphor - how can I relate the computer’s world to my own?
+	# Decomposition - how do I break down my thoughts into mind-sized pieces?
+	# Recomposition - how do I glue pieces together?
+	# Readability - what do these words mean?
+* Read the vocabulary
+	# these are the hover messages in my project
+	# allows user to decode the code
+	# see how the “ingredients” combine
+* See the state
+	# Elm reactor
+* Identity and metaphor
+	# Racket does this through the big bang/world idea
+* Decomposition
+	# functional programming lends itself nicely to this idea
+	# everything you write is a function that does one thing and one thing only
+* Recomposition
+	# functional programming has first-class functions
+	# you can mix and match; pass functions as arguments to other functions
+* Readability
+	# easier to read the code and understand what it means
+	# use the circle and hexagon examples from the game code

@@ -1,0 +1,61 @@
+========
+My Story
+========
+This past year, my employer implemented mandatory computer science classes for students in 6th to 9th grades. I was asked to teach the 6th grade students. There was no curriculum; it was up to me to decide what the students were going to do. For a variety of reasons, I went with Khan Academy. The class was a learning experience for both me and my students. There were some very rough patches throughout the year. Progress on classwork slowed to a crawl. Every educator at one time or another feels that there was more they could have done. This was one of those times. I was lucky that I remained relatively unscathed from the snow days, field trips, and mandatory assemblies. Instead, it was how the content was presented to my students. Often, students were not invested in their work, and when they ran into trouble they were seemingly paralyzed with confusion. The best way to help students was on an individual basis. This means, of course, that students had to wait their turn to get my help. I am a little embarrassed to admit this, but it was not uncommon to have students with their hands raised nearly the entire class, waiting for help that did not come. I managed to come up with a coping mechanism for the remainder of that project. It was not ideal, and the experience was unsatisfactory for both me and my students.
+
+As such, I devoted my capstone project, the culmination of my studies in Emerging Media and Communication, to rethinking how kids are taught to program. What follows are some design principles rooted in my experiences and some oft overlooked ideas from some seminal thinkers on learning to programming.
+
+* Constructionism - get kids building their knowledge as quickly as possible
+* Situate the learning as an engaging endeavor
+* Readability - not just syntax, but see how ingredients come together
+* Helpful error messages - they should point the student toward answer, not despair
+* See the state - Elm reactor
+* Recomposition/decomposition - everything a function, first-class functions
+* Metaphor - not present in project; turtle in Logo, world/big bang in Racket
+* Learning Tools - not present in project; design recipe, circles of evaluation, partner
+
+++++++
+Theory
+++++++
+This talk draws on my experiences as an educator and a masters student, as well as the work of Seymour Papert and Bret Victor. Papert is the founder of what would become the MIT Media Lab, the Logo programming language, and constructionism. His most well known work is Mindstorms: Children, Computers, and Powerful Ideas. Papert is a proponent of fundamentally rethinking our approach to education. Victor is a former engineer at Apple, and designed the initial user interface ideas for the iPad and the iPod Nano. Since leaving Apple, Victor has looked at how we learn to program and programming in general with a critical eye. His talks Inventing on Principle and The Future of Programming are well worth your time, but I am pulling from his article Learnable Programming for this talk.
+
+++++++++
+Overview
+++++++++
+I have identified eight design principles that I believe make learning to program more accessible to beginner students.
+
+++++++++++++++++++++++++++++++++++++++++++
+Constructionism - Immediacy of Interaction
+++++++++++++++++++++++++++++++++++++++++++
+Constructionism is the foundational idea of Seymour Papert. As a student of famed Swiss developmental psychologist Jean Piaget, Papert took Piaget’s idea of Constructivism and adapted it to more concrete, tangible ideas. Both Piaget and Papert believe that students must interact with the world around them and construct knowledge through these interactions. Papert diverted from Piaget in that he wants students to build something tangible with these interactions, whereas Piaget focused on the construction of abstract ideas. If you require the student to spend a substantial amount of time listening to a lecture, reading a lesson, or watching a video, then you are delaying the interaction between student and code. No matter how beneficial you may believe these instructional aids to be, you are withholding knowledge because there is no interaction. There needs to be an immediacy to the interaction. Without it, according to Papert, there can be no knowledge.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Situate the Learning - Build the Thing You Want to Build
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+When I first learned to program, I started with the ubiquitous Hello World. In 2015, text manipulation doesn’t pique the interest of students. So we have moved onto shapes; the rectangle is the first thing a student codes. However, I have never worked with a student who proclaims to want to draw shapes. They have bigger ideas for what they want to create. Often they want to make an app or a game. Having an engaged student is wonderful from an educator’s point of view. Why, then, do we insist on dismantling this enthusiasm by having students make shapes and other objectives directly related to the game they want to make? Most likely, it is because we have all learned to program this way. Build small, simple things. Each one is a little more complex than the previous. However, there is no real relationship between them. Papert calls this the QWERTY problem; if we do something long enough, then we assume that this is the natural or best way of doing things. The QWERTY keyboard came about because this configuration spaced out the most used keys on a typewriter. Thus, this limited the amount of times that a typewriter would get jammed. We no longer use typewriters, there is nothing to get jammed. But, we have come to think that the QWERTY keyboard is the “normal” or “best” keyboard. If we want students learn to program and they want to make a game, then why waste their time on unrelated tasks? Learning should be situated in the appropriate subject matter. Get students building the thing they want to build. 
+
++++++++++++
+Readability
++++++++++++
+
+++++++++++++++++++++++
+Helpful Error Messages
+++++++++++++++++++++++
+
++++++++++++++
+See the State
++++++++++++++
+
++++++++++++++++++++++++++++
+Recomposition/Decomposition
++++++++++++++++++++++++++++
+
+++++++++
+Metaphor
+++++++++
+
+++++++++++++++
+Learning Tools
+++++++++++++++
+
+e261b0fae09219def2b70b01867683b6
