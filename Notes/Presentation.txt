@@ -46,6 +46,8 @@ Helpful Error Messages
 ++++++++++++++++++++++
 Lack of knowledge and experience are the defining characteristics of beginners. As such, they will make mistakes. Error messages, in theory, are supposed to help users fix the mistakes in their code. I have come to realize that not all error messages are the same. I have a student who is in 5th grade. Last year he came to me and said that he would like to learn how to write apps for his Android tablet. I told him that I did not know how to do that. I had heard of Android App Inventor, and I invited the student to come by the lab before school to work on it. One day he said that he ran into a problem, and could not figure out the error. He logged into his account, ran his program, and showed me this error message (SLIDE). Now, Android App Inventor has its roots in Scratch, the block-based, drag and drop programming language. It is supposed to be the most beginner friendly way to write apps for Android. And yet the student got this. How does this help the user? How could he not feel frustrated? Error messages should point the user toward the resolution. Even more thought out environments like Khan Academy have problems with their error messages. Here (SLIDE) above is some code for a for-loop. Below is the error message. The problem is that users will read the error literally. Users will look to add a comma to their code when in fact they need to add a closing curly brace.
 
+Since version 0.15, Elm is making useful error messages a priority. Here (SLIDE) is an example of some bad code. Here is a variable called sum that has the value of 2 + 2. In Elm, you have to have a “main” function.
+
 +++++++++++++
 See the State
 +++++++++++++
