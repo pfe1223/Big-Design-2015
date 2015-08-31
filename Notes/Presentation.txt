@@ -61,6 +61,7 @@ Recomposition/Decomposition
 ++++++++
 Metaphor
 ++++++++
+Programming is a rather absract endeavor. Beginners have a hard time relating to the code they write. The metaphor is a method by which beginners can relate to the code that they are writing. Seymour Papert created a brilliant metaphor in the Logo programming language with the turtle. 
 
 ++++++++++++++
 Learning Tools
