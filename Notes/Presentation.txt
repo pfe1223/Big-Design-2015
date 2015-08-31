@@ -61,8 +61,7 @@ Recomposition/Decomposition
 ++++++++
 Metaphor
 ++++++++
-Programming is a rather absract endeavor. Beginners have a hard time relating to the code they write. The metaphor is a method by which beginners can relate to the code that they are writing. Seymour Papert created a brilliant metaphor in the Logo programming language with the turtle. 
-
+Programming is a rather absract endeavor. Beginners have a hard time relating to the code they write. The metaphor is a method by which beginners can relate to the code that they are writing. Seymour Papert created a brilliant metaphor in the Logo programming language with the turtle. Last yeare, before school, a handful of students worked in the computer lab on programming. I tried a bunch of ideas out on them to see what worked. At one point, we were using Kids Ruby. This a tool to teacher Ruby to beginners. One of its features is to reimplement the Logo turtle commands with Ruby syntax. 
 ++++++++++++++
 Learning Tools
 ++++++++++++++
